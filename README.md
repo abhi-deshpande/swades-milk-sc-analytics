@@ -71,9 +71,9 @@ The Supply Chain Data table has all the crucial details about every collection, 
 
 ## How?
 In order to analyze the Cow milk supply chain, the following procedure was defined and followed:
-1. **Talk with people.** In order to study the milk cooperative industry and to find possible ways to learn about their workflow, formal discussions with the domain experts in the local area as well as from a nearest milk cooperative were made.
-2. **Understanding the supply chain with reports and documents.** The flow of milk was studied from farmers to product lines, with the help of reports and documents that were made temporarily available for this study, by the nearest milk cooperative.
-3. **Studying the dataset.** A visit to a nearest plant was made, and a study of their dataset was performed. Key parameters were noted and a strategy to subset the data was formulated.
+1. **Talks with people.** In order to study the milk cooperative industry and to find possible ways to learn about their workflow, formal discussions with the domain experts in the local area as well as from a nearest (real) milk cooperative were made.
+2. **Understanding the supply chain with reports and documents.** The flow of milk was studied from farmers to product lines, with the help of reports and documents that were made temporarily available for this study, by the milk cooperative.
+3. **Studying the dataset.** A visit to their nearest plant was made, and a study of their dataset was performed. Key parameters were noted and a strategy to subset the data was formulated.
 4. **Subsetting and anonymizing the data.** The dataset was carefully extracted and anonymized in order to keep the supply chain data intact and strip off any other identifiable information.
 5. **Cleaning and rearranging the data.** The dataset was cleaned and formatted carefully in Excel.
 6. **Data Modelling.** Relationships between the tables were added.
