@@ -1,7 +1,8 @@
 # Swades Milk Supply Chain Analytics (Cow Milk)
 
+<p align="center">
 <img width="360" height="360" alt="logo" src="https://github.com/user-attachments/assets/b7c68c51-a204-4cf5-9044-4121be7d6a56" />
-
+</p>
 
 ## What?
 
